@@ -1,0 +1,13 @@
+# Derleme klasörleri
+bin/
+obj/
+
+# VS Code ayarları
+.vscode/
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+# Kullanıcı ayarları
+*.user
